@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\C# Programs\Chapter 10 (p378)\PrintAllVariationsWithDuplicates\PrintAllVariationsWithDuplicates\bin\Debug\PrintAllVariationsWithDuplicates.exe.config
+C:\Users\admin\Documents\C# Programs\Chapter 10 (p378)\PrintAllVariationsWithDuplicates\PrintAllVariationsWithDuplicates\obj\Debug\PrintAllVariationsWithDuplicates.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\C# Programs\Chapter 10 (p378)\PrintAllVariationsWithDuplicates\PrintAllVariationsWithDuplicates\bin\Debug\PrintAllVariationsWithDuplicates.exe
+C:\Users\admin\Documents\C# Programs\Chapter 10 (p378)\PrintAllVariationsWithDuplicates\PrintAllVariationsWithDuplicates\bin\Debug\PrintAllVariationsWithDuplicates.pdb
+C:\Users\admin\Documents\C# Programs\Chapter 10 (p378)\PrintAllVariationsWithDuplicates\PrintAllVariationsWithDuplicates\obj\Debug\PrintAllVariationsWithDuplicates.exe
+C:\Users\admin\Documents\C# Programs\Chapter 10 (p378)\PrintAllVariationsWithDuplicates\PrintAllVariationsWithDuplicates\obj\Debug\PrintAllVariationsWithDuplicates.pdb
